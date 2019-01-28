@@ -1,0 +1,185 @@
+.h2{
+    font-size: 1.5rem !important;
+    letter-spacing: 1px;
+}
+body{
+    font-family: 'Rubik', sans-serif !important;
+    background-color: whitesmoke !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+/* .nav-link:hover{
+    background-color: gold !important;
+} */
+.deep-yellow{
+    background-color: darkgoldenrod;
+}
+#second{
+    margin-top: -4%;
+}
+.font-12{
+    font-size: 12px !important;
+    font-weight: bold;
+    font-family: 'Coda', sans-serif !important;
+}
+
+.font-14{
+    font-size: 14px !important;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  !important;
+}
+#top{
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0, 0, 0, 0.1)),  url("images/hd-4.jpg");
+    width: 100%;
+    height: 630px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.margin-top-negative{
+    margin-top: 12rem;
+}
+.line-height{
+    line-height: 1.3;
+}
+.line-height-2{
+    line-height: 1.8;
+}
+.fa-play{
+    font-size: 2.5rem;
+    color: white;
+}
+.apple-font{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+.important-image-width{
+    width: 6rem !important;
+}
+.font-size-1rem{
+    font-size: 1.3rem;
+}
+.normal-font-size{
+    font-size: 1rem;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.short-image-height{
+    height: 7rem !important;
+}
+.medium-image-height{
+    height: 17rem !important;
+}
+.background-index{
+    background-image: url("images/image-5.jpg");
+    background-size: 100% 100%;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 31rem !important;
+    height: 19rem;
+}
+.first-indexed-card{
+    top: 32%;
+    left: 30%;
+}
+#sustainable-goals, #CHECKING-PROGRESS{
+    background-color: white !important;
+}
+.card-resize{
+    width: 23rem !important;
+}
+.TEAM-WORK{
+    background-image: url('images/hd-5.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 212.25;
+}
+#CONTACT-US{
+    background-image: url('images/hd-13.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 234.89;
+}
+.gold-color{
+    background-color: darkgoldenrod !important;
+}
+.formed-image{
+    width: 40% !important;
+    border-radius: 20px;
+}
+.rounded-left{
+    height: 2.5rem;
+}
+.height-70vh{
+    height: 198.1;
+}
+.height-90vh{
+    height: 226.4;
+}
+/* .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: black !important;
+    background-color: white !important;
+    border: 0.5px solid gray;
+    border-radius: 0 !important;
+} */
+.height-5{
+    height: 4px !important;
+}
+.progress-bar{
+    background-color: orange !important;
+}
+.badge-margin-80{
+    margin-left: 38%;
+}
+.badge-margin-75{
+    margin-left: 52%;
+}
+.badge-margin-60{
+    margin-left: 32%;
+}
+.badge-margin-50{
+    margin-left: 20%;
+}
+.normal-font-size-1{
+    font-size: 0.75rem;
+}
+.normal-font-size-1{
+    font-size: 0.9rem;
+}
+.girl-background{
+    background-image: url('images/image-28.jpg');
+    background-size: 100% 100%;
+    border-radius: 5px;
+}
+#OUR-CREATIVE-TEAM{
+    height: 600px;
+}
+#second-carousel{
+    height: 280px;
+    background-color: white;
+}
+.facebook{
+    background-color: rgba(0, 0, 255, 0.836) !important;
+}
+.input-group-text {
+    color: #73787c !important;
+    background-color: white !important;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+#footer{
+   height: 470px;
+}
+.dropdown:hover .dropdown-menu{
+    display:block !important;
+  }
+
+
+#sample:hover{
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    transform: scale(1.5);
+}
