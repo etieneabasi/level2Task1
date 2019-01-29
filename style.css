@@ -8,12 +8,7 @@ body{
     width: 100% !important;
     height: 100% !important;
 }
-/* .nav-link:hover{
-    background-color: gold !important;
-} */
-.deep-yellow{
-    background-color: darkgoldenrod;
-}
+
 #second{
     margin-top: -4%;
 }

@@ -4,7 +4,6 @@ body{
 }
 .nav-flu{
   height: 80px;
-  background-color: #69531c;
   width: 100%;
 }
 .check{
@@ -18,8 +17,28 @@ background-size:100% 100%;
 /* background-attachment: fixed; */
 
 }
+.drop-me:hover{
+  background-color: #f3b007 !important; 
+  color: white;
+}
+
+.act:hover{
+  background-color: #f3b007 !important; 
+  color: white !important;
+}
+.dropdown-menu:hover{
+  background-color: #f3b007 !important; 
+  color: white;
+
+}
+
 .dropdown-item:hover{
-  background-color: white !important; 
+  background-color: white !important;
+  color: black !important;
+}
+.dropdown-item{
+  background-color: #f3b007 !important; 
+  color: white !important;
 }
 
   .search-icon{
